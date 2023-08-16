@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "author": "Miracle M.",
+  "description": "A project that does something awesome!",
+  "keywords": ["descriptive", "words", "freecodecamp"],
+  "license": "MIT",
+  "version": "1.0.0"
 }
